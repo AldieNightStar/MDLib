@@ -29,7 +29,7 @@ context.update();
 context.startThread(interval, isDaemon);
 ```
 
-# Messages Types
+# Message Types
 ```java
 // Type1
 Object message = new ...;
